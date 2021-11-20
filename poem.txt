@@ -1,4 +1,4 @@
-The Rainbows
+The Rainbows and the Unicorn
 
 Red
 Orange
@@ -10,3 +10,4 @@ Indigo
 Violet
 Aqua
 These are the versions of the rainbow
+And the unicorn
