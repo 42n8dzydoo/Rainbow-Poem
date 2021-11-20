@@ -5,5 +5,6 @@ Orange
 Yellow
 Green
 Blue
+Gain
 Indigo
 Violet
