@@ -8,3 +8,5 @@ Blue
 Gain
 Indigo
 Violet
+Aqua
+These are the versions of the rainbow
